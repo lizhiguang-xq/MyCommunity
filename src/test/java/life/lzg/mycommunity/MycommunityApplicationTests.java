@@ -8,6 +8,7 @@ class MycommunityApplicationTests {
 
     @Test
     void contextLoads() {
+        Thread.yield();
     }
 
 }
